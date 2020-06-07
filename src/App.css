@@ -1,0 +1,29 @@
+@import '~antd/dist/antd.css';
+
+.ant-form-item-has-error .ant-form-item-explain {font-size:12px;}
+.ant-form-vertical .ant-form-item-label > label {font-weight:500;}
+.ant-form-item {margin-bottom:15px;}
+.ant-picker {width:100%;}
+.ant-table-thead > tr > th {text-align:center;}
+.ant-table-summary, .ant-table-summary .ant-table-cell-fix-left, .ant-table-summary .ant-table-cell-fix-right {background:#ccc; font-weight:bold;}
+.ant-tabs .ant-tabs-left-content {padding-left:0;}
+.ant-tabs-nav .ant-tabs-tab-active {font-weight:normal;}
+.ant-btn.record {background:#ff0000; border:#ff0000; color:#fff;}
+.ant-table-pagination.ant-pagination {margin:0; padding-top:16px;}
+
+.d-flex {display:-ms-flexbox; display:flex;}
+.justify-content-between {justify-content:space-between;}
+.pre-line {white-space:pre-line;}
+
+.text-right {text-align:right;}
+.text-link {color:#1890ff;}
+
+.dropdown-filter {width:100%; justify-content:space-between;}
+.dropdown-filter .ant-space-item {width:60px;}
+.dropdown-filter .ant-space-item .ant-btn {width:100%;}
+
+.w-100 {width:100%;}
+.pt-40 {padding-top:40px;}
+
+.btn-info {border:0; background:transparent; font-size:16px; padding:0; margin:0; outline:none; cursor:pointer;}
+
